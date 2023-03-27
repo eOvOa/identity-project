@@ -164,6 +164,7 @@ theme-descrip {
 
 a:visited {
 	color: #DBD9D7;
+	text-decoration: none;
 }
 
 a:hover {
